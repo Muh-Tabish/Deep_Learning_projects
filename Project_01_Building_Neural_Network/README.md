@@ -40,7 +40,7 @@ The goal of this project is to understand the complete deep learning workflow, i
 ## Technologies Used
 
 * Python
-* TensorFlow / Keras
+* Pytorch
 * NumPy
 * Matplotlib
 * Scikit-learn
