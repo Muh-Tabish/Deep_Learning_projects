@@ -160,13 +160,12 @@ These visualizations help evaluate model performance and identify possible overf
 ```text
 Heart-Disease-Prediction/
 │
-├── heart.csv
-├── heart_disease_prediction.ipynb
-├── best_model.pth
-├── README.md
+├── heart_disease_prediction.ipynb      # Main notebook
+├── README.md                           # Project documentation
+│
 └── results/
-    ├── loss_curve.png
-    └── confusion_matrix.png
+    ├── loss_curve.png                  # Training vs Validation Loss
+    └── confusion_matrix.png            # Confusion Matrix Heatmap
 ```
 
 ---
