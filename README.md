@@ -1,7 +1,7 @@
 # Deep_Learning_projects
 Deep Learning project implementing neural networks for data analysis, prediction, and model evaluation using Python and TensorFlow/PyTorch.
 
-Projects
+# Projects
 
 ## Project 01: Building a Neural Network Adding Machine
 
